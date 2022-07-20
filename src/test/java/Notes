@@ -1,0 +1,9 @@
+AccessSpecifiers:
+private
+protected
+public
+
+non-access specifiers:
+final - can be used for methods , for variables and classes
+abstract
+

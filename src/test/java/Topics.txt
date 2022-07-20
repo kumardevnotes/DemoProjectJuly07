@@ -1,0 +1,13 @@
+Oops: Object Oriented Principles
+
+1. Inheritance
+2. Abstraction
+3. Polymorphism
+4. Encapsulation
+
+Exception handling
+
+collections
+
+FileIO
+
